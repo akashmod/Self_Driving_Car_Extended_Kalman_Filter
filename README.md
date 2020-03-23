@@ -76,7 +76,7 @@ The KalmanFilter.cpp file has the functions for the above mentioned Prediction a
 
 ## Evaluation
 
-The RMSE values were found to be less than [.11, .11, 0.52, 0.52] as dictated by the project rubric to pass the project. 
+The RMSE values were found to be less than [.14, .14, 0.52, 0.52] as dictated by the project rubric to pass the project. 
          
                 
                 
